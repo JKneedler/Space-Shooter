@@ -1,0 +1,24 @@
+##----------------* ABILITIES *----------------##
+
+Plasma shot
+	- giant medium speed plasma shot that does massive amounts of damage 		to any enemy it touches
+	- doesn't end when touches first enemy : keeps going
+Spread shot
+	- shoots a couple bursts of spread shots : self explanatory
+Laser
+	- straight out laser that does damage per second to anything its 		touching
+Slow Time
+	- slows time for all except player for a few seconds
+Ghost
+	- turns player impervious to attacks for a few seconds
+Protector
+	- spawns a few balls/orbs around player to protect against attacks
+	- when attack hits ball it destroys ball and attack
+	- protects against simple enemies and projectiles
+	- balls last as long as they're not destroyed
+shockwave
+	- round pulse that goes out from player and damages enemies as it 				reaches them
+	- also destroys projectiles in space at the moment
+teleport
+	- teleports player some distance ahead of them
+	- displays a marker showing where teleportation is too
