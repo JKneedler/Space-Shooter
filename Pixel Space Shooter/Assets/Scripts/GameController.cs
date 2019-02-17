@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class GameController : SerializedMonoBehaviour {
+public class GameController : MonoBehaviour {
 
 	[TabGroup("Wave")]
 	public int wave;
@@ -55,7 +55,7 @@ public class GameController : SerializedMonoBehaviour {
 		NextWave ();
 		playerKilled = false;
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
 		if (!playerKilled) {
